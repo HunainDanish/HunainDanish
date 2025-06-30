@@ -33,8 +33,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunaindanish/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hunain-danish-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20%F0%9F%91%89%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunaindanish/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%94%8D%20Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hunain-danish-portfolio.vercel.app/)
 
 ---
 
