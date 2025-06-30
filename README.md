@@ -14,14 +14,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hunain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=radical)
+![Hunain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hunaindanish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunaindanish&layout=compact&theme=tokyonight)
 
 ---
 
