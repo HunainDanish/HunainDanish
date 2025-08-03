@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hunain Danish
 
-🎓 **Computer Science student | Full-Stack Developer | Open Source Enthusiast**
+🎓 **Computer Science Student | Full-Stack Developer | Open Source Enthusiast**
 
 💻 I work with a mix of **back-end, front-end, databases, and cloud** — always exploring new tech to solve real problems.
 
@@ -19,15 +19,17 @@
 
 ---
 
----
+## 📊 GitHub Stats & Streaks
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Hunain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight)
+![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hunaindanish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunaindanish&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunaindanish&layout=compact&theme=tokyonight&langs_count=8)
+
+</div>
 
 ---
 
