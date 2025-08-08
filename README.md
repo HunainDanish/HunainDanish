@@ -23,7 +23,8 @@
 
 <div align="center">
 
-![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues&count_private=true)
+![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues&count_private=true&include_all_commits=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hunaindanish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&v=2)
 
