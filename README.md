@@ -25,7 +25,7 @@
 
 ![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hunaindanish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=hunaindanish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunaindanish&layout=compact&theme=tokyonight&langs_count=8)
 
