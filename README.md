@@ -27,9 +27,9 @@ I enjoy solving real-world problems through technology and continuously expandin
 
 ![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hunaindanish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&v=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunaindanish&layout=compact&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunaindanish&layout=compact&theme=tokyonight)
 
 </div>
 
