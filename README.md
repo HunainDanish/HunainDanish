@@ -4,7 +4,7 @@ Computer Science Student | Full-Stack Developer | AI Enthusiast
 
 I specialize in building modern web applications, AI-powered solutions, and scalable software systems. My experience spans front-end development, back-end engineering, databases, cloud technologies, and machine learning applications.
 
-I enjoy solving real-world problems through technology and continuously expanding my expertise in software development, artificial intelligence, and emerging technologies.
+I enjoy solving real-world problems through technology and continuously expanding my expertise in software development, artificial intelligence, cloud computing, and emerging technologies.
 
 ---
 
@@ -25,13 +25,33 @@ I enjoy solving real-world problems through technology and continuously expandin
 
 <div align="center">
 
-![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues&count_private=true&include_all_commits=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunaindanish&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunaindanish&layout=compact&langs_count=8&theme=tokyonight" />
 
 </div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hunaindanish&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Areas of Interest
+
+- Full-Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Cloud Computing
+- Database Design & Management
+- Open Source Development
+- Software Architecture
+- API Development & Integration
 
 ---
 
@@ -43,4 +63,4 @@ I enjoy solving real-world problems through technology and continuously expandin
 
 ---
 
-Building innovative software, AI solutions, and scalable applications.
+> Building modern software, AI-powered solutions, and scalable applications.
