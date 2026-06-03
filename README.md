@@ -1,12 +1,14 @@
-# 👋 Hi, I’m Hunain Danish
+# Hunain Danish
 
-🎓 **Computer Science Student | Full-Stack Developer | Open Source Enthusiast**
+Computer Science Student | Full-Stack Developer | AI Enthusiast
 
-💻 I work with a mix of **back-end, front-end, databases, and cloud** — always exploring new tech to solve real problems.
+I specialize in building modern web applications, AI-powered solutions, and scalable software systems. My experience spans front-end development, back-end engineering, databases, cloud technologies, and machine learning applications.
+
+I enjoy solving real-world problems through technology and continuously expanding my expertise in software development, artificial intelligence, and emerging technologies.
 
 ---
 
-## 🚀 Tech I Use
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,12 +21,11 @@
 
 ---
 
-## 📊 GitHub Stats & Streaks
+## GitHub Statistics
 
 <div align="center">
 
 ![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunaindanish&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues&count_private=true&include_all_commits=true)
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hunaindanish&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&v=2)
 
@@ -34,11 +35,12 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20%F0%9F%91%89%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunaindanish/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%94%8D%20Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hunain-danish-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunaindanish/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hunain-danish-portfolio.vercel.app/)
 
 ---
 
-⭐ **Thanks for visiting! Let’s build something amazing together.**
+Building innovative software, AI solutions, and scalable applications.
