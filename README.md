@@ -83,7 +83,7 @@ Building intelligent, production-grade platforms powered by AI, Industrial IoT, 
 
 - **Currently Building:** **CIIP** - Cyberian Industrial Intelligence Platform (competing with Siemens, Schneider, Ignition SCADA)
 - **Learning:** Advanced RAG (Retrieval-Augmented Generation) & Large Language Model integration for enterprise solutions
-- **Portfolio:** [hunain-danish-portfolio.vercel.app](https://hunain-danish-portfolio.vercel.app/)
+- **Portfolio:** [hunain-danish.vercel.app](https://hunain-danish.vercel.app/)
 - **Let's Discuss:** **Next.js, FastAPI, Computer Vision, Industrial IoT, PLC Integration, AI/ML**
 - **Contact:** **danish32960@gmail.com**
 
@@ -332,7 +332,7 @@ Building intelligent, production-grade platforms powered by AI, Industrial IoT, 
   <a href="https://www.linkedin.com/in/hunaindanish/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://hunain-danish-portfolio.vercel.app/" target="_blank">
+  <a href="https://hunain-danish.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:danish32960@gmail.com">
@@ -359,7 +359,7 @@ Building intelligent, production-grade platforms powered by AI, Industrial IoT, 
   <a href="mailto:danish32960@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <a href="https://hunain-danish-portfolio.vercel.app/">
+  <a href="https://hunain-danish.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_Portfolio-blue?style=flat-square&logo=vercel&logoColor=white" alt="Visit Portfolio" />
   </a>
 </div>
