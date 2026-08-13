@@ -276,14 +276,6 @@ Building intelligent, production-grade platforms powered by AI, Industrial IoT, 
 ## GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HunainDanish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Hunain's GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HunainDanish&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=HunainDanish&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
