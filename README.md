@@ -2,8 +2,6 @@
 
 # Hi, I'm Hunain Danish
 
-### Founder at <a href="https://github.com/HunainDanish/CyberianElectronics" target="_blank">Cyberian Electronics</a>
-
 #### Full Stack Developer | AI & Industrial IoT Engineer | Building Enterprise-Grade Software
 
 <p>
@@ -11,7 +9,7 @@ Building intelligent, production-grade platforms powered by AI, Industrial IoT, 
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Role-Founder%20%26%20Developer-E34F26?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-E34F26?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Industrial%20IoT%20%26%20AI-009688?style=for-the-badge&logo=iot&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-Full%20Stack%20Developer-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" />
 </p>
