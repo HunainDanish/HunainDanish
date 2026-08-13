@@ -11,8 +11,9 @@ Building intelligent, production-grade platforms powered by AI, Industrial IoT, 
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Role-Founder%20%26%20Developer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Industrial%20IoT%20%26%20AI-0FA9A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Founder%20%26%20Developer-E34F26?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Industrial%20IoT%20%26%20AI-009688?style=for-the-badge&logo=iot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack%20Developer-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" />
 </p>
 
 </div>
@@ -21,13 +22,13 @@ Building intelligent, production-grade platforms powered by AI, Industrial IoT, 
 
 <div align="center">
   <a href="https://github.com/HunainDanish">
-    <img src="https://komarev.com/ghpvc/?username=HunainDanish&label=Profile%20views&color=blue&style=flat-square" alt="HunainDanish" />
+    <img src="https://komarev.com/ghpvc/?username=HunainDanish&label=Profile%20views&color=dc143c&style=flat-square" alt="HunainDanish" />
   </a>
   <a href="https://github.com/HunainDanish">
-    <img src="https://img.shields.io/github/followers/HunainDanish?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/HunainDanish?label=Followers&style=flat-square&color=1DB954" alt="GitHub followers" />
   </a>
   <a href="https://github.com/HunainDanish">
-    <img src="https://img.shields.io/github/stars/HunainDanish?style=flat-square&color=blue" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/HunainDanish?style=flat-square&color=FF9900" alt="GitHub stars" />
   </a>
 </div>
 
