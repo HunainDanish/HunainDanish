@@ -276,7 +276,11 @@ Building intelligent, production-grade platforms powered by AI, Industrial IoT, 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HunainDanish&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </div>
 
 ---
